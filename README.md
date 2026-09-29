@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Grúas Higareda — Servicio de grúas 24/7 en Baja California. Vista del sitio en computadora y celular" src="docs/img/portada.jpg" width="100%">
+  <img alt="Grúas Higareda: Servicio de grúas 24/7 en Baja California" src="docs/img/portada.jpg" width="100%">
 </p>
 
 <h1 align="center">Grúas Higareda</h1>
@@ -7,7 +7,6 @@
 <p align="center"><b>Servicio de grúas 24/7 en Baja California</b></p>
 
 <p align="center">
-  <a href="https://gruashigareda.pages.dev/"><b>Ver el sitio →</b></a><br><br>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-663399?style=flat-square&logo=css&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-b8a200?style=flat-square&logo=javascript&logoColor=white">
@@ -16,58 +15,41 @@
 
 ## Sobre el proyecto
 
-Landing de **Grúas Higareda**: servicio de grúas 24/7 en Tijuana, Tecate, Rosarito, Mexicali y Ensenada, con traslados, maniobras y servicio pesado.
+Landing de **Grúas Higareda**, servicio de grúas 24/7 en Tijuana, Tecate, Rosarito, Mexicali y Ensenada. Rediseño con enfoque en contacto inmediato: llamada y WhatsApp siempre a la mano, tiempo de llegada de menos de 25 minutos y precios desde $800 MXN. El sitio está en español y en inglés.
 
-Es un sitio estático: HTML, CSS y JavaScript sin frameworks ni proceso de build.
+Es un sitio estático, hecho con HTML, CSS y JavaScript, sin frameworks ni proceso de build.
 
 ## Secciones
 
 | Sección | Contenido |
 | --- | --- |
-| **Contacto** | WhatsApp y llamada inmediata |
-| **Servicios** | Tipos de servicio |
-| **Cobertura** | Ciudades de Baja California |
-| **Galería** | Galería de fotos |
+| **Inicio** | Disponibilidad 24/7, cobertura en todo Baja California y respuesta en menos de 25 minutos |
+| **Servicios** | Traslados, maniobras, servicio pesado, abastecimiento de gasolina, pase de corriente y cambio de llanta |
+| **Galería** | La flota trabajando en carretera y ciudad |
+| **Cobertura** | Tijuana, Tecate, Rosarito, Mexicali y Ensenada |
+| **Contacto** | Llamada y WhatsApp con el servicio ya elegido |
 
-## Capturas
+## En computadora
 
 <p align="center">
-  <img alt="Grúas Higareda en computadora" src="docs/img/escritorio.jpg" width="72%">
-  &nbsp;
-  <img alt="Grúas Higareda en celular" src="docs/img/movil.jpg" width="22%">
+  <img alt="Grúas Higareda en computadora" src="docs/img/escritorio.jpg" width="100%">
+</p>
+
+## En celular
+
+<p align="center">
+  <img alt="Grúas Higareda en celular: tres pantallas" src="docs/img/celular.jpg" width="100%">
 </p>
 
 ## Tecnologías
 
-- HTML5, CSS3 y JavaScript, sin frameworks ni proceso de build.
-- Íconos de [Font Awesome](https://fontawesome.com/) (desde CDN).
-- Tipografía de Google Fonts (Montserrat).
+- HTML5, CSS3 y JavaScript.
 - Diseño adaptable a celular, tableta y computadora.
-- Publicado en **Cloudflare Pages**.
-
-## Estructura
-
-```
-GruasHigareda/
-├── docs/                       # Imágenes de este README
-├── Imagenes/
-├── index.html                  # Página principal
-├── Logo.ico
-├── Logo.png
-├── script.js                   # Interacciones (menú, animaciones)
-└── styles.css                  # Estilos
-```
-
-## Correr en local
-
-No necesita instalar nada. Abre `index.html` en el navegador, o sírvelo desde la carpeta del repo:
-
-```bash
-python -m http.server 8000
-```
-
-y entra a <http://localhost:8000>.
+- Íconos SVG en línea, sin librerías externas.
+- Tipografía de Google Fonts: Inter.
+- Versión en español y en inglés, enlazadas con `hreflang`.
+- SEO técnico: datos estructurados de negocio local con sus servicios, `robots.txt` y `sitemap.xml`.
 
 ## Créditos
 
-Desarrollado por [@Salereee](https://github.com/Salereee). Logotipos, fotografías y textos del negocio pertenecen a Grúas Higareda.
+Desarrollado por Salereee. Logotipos, fotografías y textos del negocio pertenecen a Grúas Higareda.
